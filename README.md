@@ -99,8 +99,35 @@ Available at: https://www.youtube.com/watch?v=VRL9IYxLeJs
 Moodley, R., 2023. Auto Boutique. [Online] 
 Available at: https://autoboutique.co.za/
 [Accessed 27 08 2025].
+
 Smith, P. C., 2025. Youtube. [Online] 
 Available at: https://www.youtube.com/watch?v=by8f2vYoJAE
-[Accessed 23 08 2025].
+
+# The finshed part 1 website:
+## Home page:
+
+<img width="865" height="740" alt="Screenshot 2025-08-27 194045" src="https://github.com/user-attachments/assets/cdc94bac-8b13-48c0-9449-c9c6e267bb29" />
+
+The home page has a large image of the car which constently showed up in the original website for the company. Having it in the beginning draws the user into wantin to scroll trough the website. 
+## Service:
+
+<img width="897" height="722" alt="Screenshot 2025-08-27 194126" src="https://github.com/user-attachments/assets/96ee7bdf-74e3-4b4d-bfd5-4c058a40be47" />
+
+##Gallery:
+
+<img width="216" height="768" alt="Screenshot 2025-08-27 194151" src="https://github.com/user-attachments/assets/b4bf5f15-d530-40a4-9678-456ef90ea2a1" />
+
+## About Us
+
+<img width="679" height="864" alt="Screenshot 2025-08-27 194312" src="https://github.com/user-attachments/assets/617172ec-4e64-41b8-b3df-bfcd2be3e33d" />
+
+## Contact Us:
+
+<img width="622" height="810" alt="Screenshot 2025-08-27 194354" src="https://github.com/user-attachments/assets/821f8436-b523-4ed2-bf25-827fb436d7df" />
+
+All the footers and headers are the same so that the user is met with a consistant them troughout their time on the website.
+
+
+
 
 
