@@ -3,7 +3,7 @@
 ## Wire Frame
 <img width="1366" height="4608" alt="wireframe0 2" src="https://github.com/user-attachments/assets/cef856ca-caf1-4e58-8eb9-6344f7ff155d" />
 
-##Site Map
+## Site Map
 <img width="1024" height="768" alt="SITE MAP 0 1" src="https://github.com/user-attachments/assets/6e72718b-e0aa-487b-a3a1-64752cd594e9" />
 
 # Final Website Plan: Small Business
@@ -48,7 +48,9 @@ Colour Scheme:
  
 Typography: 
 (Desighspo, 2024)
+
 <img width="617" height="110" alt="Screenshot 2025-08-27 191003" src="https://github.com/user-attachments/assets/500cb985-7e59-4d2a-ac1e-a3604958e304" />
+
 Website used for accessible contrast: https://webaim.org
 
 
@@ -79,10 +81,6 @@ Footer:
 Links to all core pages on website
 Company logo (link to home page)
 Links to company socials
-
-
-
- 
 
 
 ### Timeline and milestones:
