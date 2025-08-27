@@ -1,10 +1,3 @@
-# Auto Boutique(Car detailing company in Durban) Website
-
-## Wire Frame
-<img width="1366" height="4608" alt="wireframe0 2" src="https://github.com/user-attachments/assets/cef856ca-caf1-4e58-8eb9-6344f7ff155d" />
-
-## Site Map
-<img width="1024" height="768" alt="SITE MAP 0 1" src="https://github.com/user-attachments/assets/6e72718b-e0aa-487b-a3a1-64752cd594e9" />
 
 # Final Website Plan: Small Business
 
@@ -82,6 +75,11 @@ Links to all core pages on website
 Company logo (link to home page)
 Links to company socials
 
+## Wire Frame
+<img width="1366" height="4608" alt="wireframe0 2" src="https://github.com/user-attachments/assets/cef856ca-caf1-4e58-8eb9-6344f7ff155d" />
+
+## Site Map
+<img width="1024" height="768" alt="SITE MAP 0 1" src="https://github.com/user-attachments/assets/6e72718b-e0aa-487b-a3a1-64752cd594e9" />
 
 ### Timeline and milestones:
 <img width="622" height="292" alt="Screenshot 2025-08-27 191314" src="https://github.com/user-attachments/assets/a1f13393-f5f0-4f11-bb56-1d7e101eda4c" />
@@ -90,3 +88,19 @@ Budget:
 Estimated developing price: R65000,00
 Estimated hosting price: R690,00
 Estimated maintenance price p/m: R7500,00
+
+References
+DesignSpo, 2024. YouTube. [Online] 
+Available at: https://www.youtube.com/watch?v=AXpxZMRM1EY
+[Accessed 23 08 2025].
+Moodley, R., 2018. YouTube. [Online] 
+Available at: https://www.youtube.com/watch?v=VRL9IYxLeJs
+[Accessed 27 08 2025].
+Moodley, R., 2023. Auto Boutique. [Online] 
+Available at: https://autoboutique.co.za/
+[Accessed 27 08 2025].
+Smith, P. C., 2025. Youtube. [Online] 
+Available at: https://www.youtube.com/watch?v=by8f2vYoJAE
+[Accessed 23 08 2025].
+
+
