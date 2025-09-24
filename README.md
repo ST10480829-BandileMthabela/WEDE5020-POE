@@ -125,7 +125,11 @@ The home page has a large image of the car which constently showed up in the ori
 
 <img width="622" height="810" alt="Screenshot 2025-08-27 194354" src="https://github.com/user-attachments/assets/821f8436-b523-4ed2-bf25-827fb436d7df" />
 
+
 All the footers and headers are the same so that the user is met with a consistant them troughout their time on the website.
+
+# CHANGE LOG
+|No.| Change type| Description| Date Identfird| Status| Priority| Action| Date Resolved| 
 
 
 
