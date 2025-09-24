@@ -130,9 +130,14 @@ All the footers and headers are the same so that the user is met with a consista
 
 # CHANGE LOG
 
-| No. | Change type | Description    | Date Identfird | Priority | Action                                   | Date Resolved | 
-| --- | ---         | ---            | ---            | ---      | ---                                      | ---           |
-|  1. | Typography  | Add Change Log | 18/09/2025     | High     |  Change log table created in readme file | 24/09/2025    |
+| No. | Change type | Description           | Date Identfird | Priority | Action                                   | Date Resolved | 
+| --- | ---         | ---                   | ---            | ---      | ---                                      | ---           |
+|  1. | Typography  | Add Change Log        | 18/09/2025     | High     |  Change log table created in readme file | 24/09/2025    |
+|  2. | Code        | Table added in gallery. | 19/09/2025     | Low      | All gallery images put into a table.     | 19/09/2025    |
+|  3. | Design      | Resize all images in gallery to the same dimentions using Cap Cut image editor. | 19/09/2025 | Made all 6 images in gallery ratio 16:9. | 19/09/2025 |
+|  4. | Code        | Added all.css file in css_assets folder. |  27/08/2025 | Medium | styling for figure, header, a, table and footer done. | 19/08/2025 |
+|  5. | Code        | Call css_assets file to each page. |  19/09/2025 | Low | Applying css styling to all screens onn the wedsite. | 19/08/2025 |
+
 
 
 
