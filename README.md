@@ -129,8 +129,9 @@ The home page has a large image of the car which constently showed up in the ori
 All the footers and headers are the same so that the user is met with a consistant them troughout their time on the website.
 
 # CHANGE LOG
-|No.| Change type| Description| Date Identfird| Status| Priority| Action| Date Resolved| 
-
+| No.| Change type | Description | Date Identfird | Priority | Action | Date Resolved | 
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|1. |Typography  | Add Change Log | 18/09/2025 | High |  Change log table created in readme file | 24/09/2025 |
 
 
 
