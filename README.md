@@ -1,0 +1,144 @@
+
+# Final Website Plan: Small Business
+
+## Organisation Overview:
+### Organisation brief:
+
+Client Name: Ruben Moodley
+Organisation name: Auto Boutique
+Service Business: Car Detailing
+
+### The History of Auto Boutiques:
+
+The organisation was established in 2002 (Ruben Moodley, 2023). This organisation has a link to Autoglym, which is an organisation established in Britan in 1965. Autoglym does car detailing and, manufactures car care items. Auto Boutique has over 50 employees working in the organisation currently, 10 000 hours worked and 2000 projects being done over the past 20 years. The company is in Durban Mhlanga. (Ruben Moodley, 2018)
+
+Mission:
+The mission I am tasked with is to develop a website that is easy to navigate and informative. 
+
+Vision statement:
+The current website looks stuffy. The header is under the contact information and socials of the company making it seem more like a poster and not a professional detailing company. 
+
+Target audience: 
+Car owners who want to get their car professionally cleaned. 
+
+### Goals and Objectives:
+
+Goal:
+To bring in more clients to the physical location of the organisation by increasing traffic on online platforms and the website. 
+
+Objective:
+Increasing the number of subscribers and followers on social media will bring traffic into the website. Having a nice website will increase the likelihood of getting customers.
+
+Current website analysis: 
+The website looks unprofessional. Most problems about the website are only unnoticeable when it is viewed on a computer.  The colours used feel overwhelming making me as the user want to click off the website. 
+
+### Design and user experience:
+Colour Palette:
+ <img width="940" height="627" alt="image" src="https://github.com/user-attachments/assets/83d5aeeb-4f1a-4e11-8be6-9045f26ff917" />
+
+Colour Scheme:
+ Red, Black, Grey and White.
+ 
+Typography: 
+(Desighspo, 2024)
+
+<img width="617" height="110" alt="Screenshot 2025-08-27 191003" src="https://github.com/user-attachments/assets/500cb985-7e59-4d2a-ac1e-a3604958e304" />
+
+Website used for accessible contrast: https://webaim.org
+
+
+### Layout and Design:
+(Payton Clark Smith,2025)
+
+Navigation: 
+Logo (Link to homepage), different web page links and call to action (Login/sign in button) 
+•	Note: Important links only
+
+Hero section:
+All important information
+What you do and who you do it for. (Example: repurpose YouTube, grow your social media)
+Call to action (Example: book a call)
+Social proof: Reviews, rating, video sowing the service.
+•	Note: capture viewer attention
+
+Body: 
+Overview
+Features benefits
+Examples
+Social proof
+Blog
+Frequently asked questions
+Call to action
+
+Footer:
+Links to all core pages on website
+Company logo (link to home page)
+Links to company socials
+
+## Wire Frame
+<img width="1366" height="4608" alt="wireframe0 2" src="https://github.com/user-attachments/assets/cef856ca-caf1-4e58-8eb9-6344f7ff155d" />
+
+## Site Map
+<img width="1024" height="768" alt="SITE MAP 0 1" src="https://github.com/user-attachments/assets/6e72718b-e0aa-487b-a3a1-64752cd594e9" />
+
+### Timeline and milestones:
+<img width="622" height="292" alt="Screenshot 2025-08-27 191314" src="https://github.com/user-attachments/assets/a1f13393-f5f0-4f11-bb56-1d7e101eda4c" />
+
+Budget:
+Estimated developing price: R65000,00
+Estimated hosting price: R690,00
+Estimated maintenance price p/m: R7500,00
+
+References
+DesignSpo, 2024. YouTube. [Online] 
+Available at: https://www.youtube.com/watch?v=AXpxZMRM1EY
+[Accessed 23 08 2025].
+Moodley, R., 2018. YouTube. [Online] 
+Available at: https://www.youtube.com/watch?v=VRL9IYxLeJs
+[Accessed 27 08 2025].
+Moodley, R., 2023. Auto Boutique. [Online] 
+Available at: https://autoboutique.co.za/
+[Accessed 27 08 2025].
+
+Smith, P. C., 2025. Youtube. [Online] 
+Available at: https://www.youtube.com/watch?v=by8f2vYoJAE
+
+# The finshed part 1 website:
+## Home page:
+
+<img width="865" height="740" alt="Screenshot 2025-08-27 194045" src="https://github.com/user-attachments/assets/cdc94bac-8b13-48c0-9449-c9c6e267bb29" />
+
+The home page has a large image of the car which constently showed up in the original website for the company. Having it in the beginning draws the user into wantin to scroll trough the website. 
+## Service:
+
+<img width="897" height="722" alt="Screenshot 2025-08-27 194126" src="https://github.com/user-attachments/assets/96ee7bdf-74e3-4b4d-bfd5-4c058a40be47" />
+
+##Gallery:
+
+<img width="216" height="768" alt="Screenshot 2025-08-27 194151" src="https://github.com/user-attachments/assets/b4bf5f15-d530-40a4-9678-456ef90ea2a1" />
+
+## About Us
+
+<img width="679" height="864" alt="Screenshot 2025-08-27 194312" src="https://github.com/user-attachments/assets/617172ec-4e64-41b8-b3df-bfcd2be3e33d" />
+
+## Contact Us:
+
+<img width="622" height="810" alt="Screenshot 2025-08-27 194354" src="https://github.com/user-attachments/assets/821f8436-b523-4ed2-bf25-827fb436d7df" />
+
+
+All the footers and headers are the same so that the user is met with a consistant them troughout their time on the website.
+
+# CHANGE LOG
+
+| No. | Change type | Description           | Date Identfird | Priority | Action                                   | Date Resolved | 
+| --- | ---         | ---                   | ---            | ---      | ---                                      | ---           |
+|  1. | Typography  | Add Change Log        | 18/09/2025     | High     |  Change log table created in readme file | 24/09/2025    |
+|  2. | Code        | Table added in gallery. | 19/09/2025     | Low      | All gallery images put into a table.     | 19/09/2025    |
+|  3. | Design      | Resize all images in gallery to the same dimentions using Cap Cut image editor. | 19/09/2025 | Made all 6 images in gallery ratio 16:9. | 19/09/2025 |
+|  4. | Code        | Added all.css file in css_assets folder. |  27/08/2025 | Medium | styling for figure, header, a, table and footer done. | 19/08/2025 |
+|  5. | Code        | Call css_assets file to each page. |  19/09/2025 | Low | Applying css styling to all screens onn the wedsite. | 19/08/2025 |
+
+
+
+
+
