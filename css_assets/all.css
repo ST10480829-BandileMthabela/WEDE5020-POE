@@ -28,7 +28,7 @@ Date accessed:29/09/2025
 
 
 
-* {
+* {/* this code applies for all pages*/
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -36,9 +36,10 @@ Date accessed:29/09/2025
 }
 
 @media (max-width: 1200em) { /* 1200px  (PC) */
-    iframe
+/*When the width of the screen is above 1200px the code styling below will be applied.*/
 
-header img {
+header img {  
+    /*Moves logo to the center of the screen.*/ 
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -65,6 +66,7 @@ nav{
   display: flex;
   align-items: center;
   justify-content: space-between;
+  /*Spacing between elements and aligning the items to the center*/
 }
 
 nav a {
@@ -73,14 +75,14 @@ nav a {
     
     font-weight: bold;
     padding: 10px 15px;
-    transition: background-color 0.3s, color 0.3s;
+   /*spacing between anchor tags*/
 
 }
 
 a:hover {
     font-size: large;
     color: white;
-
+    /* when the cursor is over an anchor tag(a link) the anchor tag gets bigger and tuns white.*/
 }
 
 }
@@ -91,10 +93,8 @@ body {
   display: flex;
   flex-direction: column;
   background: #ffffff;
-  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
-  
 }
-iframe{
+iframe { /*allows map to stay in the center of the main area*/
     width: 100%;
 }
 
@@ -119,21 +119,9 @@ a{
 footer {
   min-height: 50px;
   background: rgb(255, 0, 0);
+  /*the whole footer has a red background.*/
 }
 
-table {
-    align-items: center;
-    padding: 10px;
-}
-
-
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-    padding: 10px;
-  
-    background: rgb(255, 255, 255);
-}
   
 
 main {
@@ -143,6 +131,7 @@ main {
   margin: 24px;
   padding: 24px;
   box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+  /*The background colour of the boarder is changed to show that the section of the page is different*/
 }
  
 
@@ -157,4 +146,5 @@ main {
         display: inline-block;
         margin: 10px;
     }
+    /*When the screen size reaches a certain point the navigation bar ajusts so that the user can see all the links of important pages*/
 }
