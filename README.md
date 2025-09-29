@@ -138,18 +138,68 @@ All the footers and headers are the same so that the user is met with a consista
 |  4. | Code        | Added all.css file in css_assets folder. |  27/08/2025 | Medium | styling for figure, header, a, table and footer done. | 19/08/2025 |
 |  5. | Code        | Call css_assets file to each page. |  19/09/2025 | Low | Applying css styling to all screens onn the wedsite. | 19/08/2025 |
 | 6.  | code        | Pushed and pulled code.            | 24/09/2025  | Low | second big pushe to Git Hub, css step 1 | 24/09/2025 |
+| 7.  | code        | comments           | 27/09/2025  | medium | commenting on the css code added | 29/09/2025 |
+| 8.  | typography       |   screen shots   | 29/09/2025  | Low | screenshots of all pages in using differnt devices | 29/09/2025 |
+| 9.  | code        | Refrencing            | 28/09/2025  | high | refrencing for code for planting the footer to the end of the screen and other elements | 29/09/2025 |
 
 # Responsive Design
-## Mobile device
+## Home Screen
+### Cell Phone
 <img width="398" height="937" alt="Screenshot 2025-09-29 182202" src="https://github.com/user-attachments/assets/ebbeced4-7903-49d6-83e8-d81889f12e53" />
 
 
-## Tablet
+### Tablet
 <img width="858" height="920" alt="Screenshot 2025-09-29 182255" src="https://github.com/user-attachments/assets/3fdbe06a-38b1-44fe-83a7-b74509c8a88d" />
 
 
-## PC
+### PC
 <img width="1460" height="935" alt="Screenshot 2025-09-29 182341" src="https://github.com/user-attachments/assets/246f9fe4-62e1-40e2-9e92-fc670caaaed0" />
+
+
+### Cell Phone
+<img width="493" height="866" alt="Screenshot 2025-09-29 221007" src="https://github.com/user-attachments/assets/80c620ed-de7e-447b-8eb8-5ff4487383e1" />
+
+
+### Tablet
+<img width="829" height="869" alt="Screenshot 2025-09-29 221029" src="https://github.com/user-attachments/assets/4354df94-4439-433b-9d3e-265a7175439b" />
+
+
+### PC
+<img width="1456" height="861" alt="Screenshot 2025-09-29 221050" src="https://github.com/user-attachments/assets/3ad2cfe2-03a5-4d41-8d1b-f18a8823d2f9" />
+
+
+### Cell Phone
+<img width="452" height="861" alt="Screenshot 2025-09-29 230912" src="https://github.com/user-attachments/assets/0bb7caa3-b864-479b-be1c-97d2c334fc52" />
+
+### Tablet
+<img width="1032" height="867" alt="Screenshot 2025-09-29 230844" src="https://github.com/user-attachments/assets/cb2d6587-e2e7-4273-8bd6-308ccec61cbc" />
+
+### PC
+<img width="1462" height="870" alt="Screenshot 2025-09-29 230820" src="https://github.com/user-attachments/assets/a004ef05-26f1-493c-ae7d-7bc29f33e453" />
+
+
+### Cell Phone
+<img width="440" height="870" alt="Screenshot 2025-09-29 231153" src="https://github.com/user-attachments/assets/fead5c8f-7a0d-4fbc-8444-57b737c5975f" />
+
+
+### Tablet
+<img width="912" height="878" alt="Screenshot 2025-09-29 231215" src="https://github.com/user-attachments/assets/d0acdfc4-5b4a-46fe-96ac-f5a32462fb4b" />
+
+### PC
+<img width="1460" height="869" alt="Screenshot 2025-09-29 231234" src="https://github.com/user-attachments/assets/58ddbb13-b5bf-4335-a81b-cecbeef8c0ae" />
+
+### Cell Phone
+<img width="510" height="860" alt="Screenshot 2025-09-29 231533" src="https://github.com/user-attachments/assets/74443d7f-37d3-4989-ae00-7060a50d84fe" />
+
+
+### Tablet
+<img width="1072" height="870" alt="Screenshot 2025-09-29 231518" src="https://github.com/user-attachments/assets/eaaf4ddb-832d-413e-ba99-154b638bd8f7" />
+
+### PC
+<img width="1459" height="859" alt="Screenshot 2025-09-29 231459" src="https://github.com/user-attachments/assets/1de271f8-30a7-48bf-bf6c-19e81fc63e1b" />
+
+
+
 
 
 
