@@ -2,23 +2,27 @@
     padding: 0;
     margin: 0;
 }
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
 figure {
     display: inline-block;
     margin: 50px;
 }
 
-header {
+nav{
   min-height: 50px;
-  background: rgb(255, 179, 56);
+  background: rgb(255, 0, 0);
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0 20px;
-  
 }
 
-header a {
+nav a {
     color: rgb(0, 0, 0);
     text-decoration: none;
     text-wrap: nowrap;
@@ -28,7 +32,8 @@ header a {
 
 }
 
-header a:hover {
+a:hover {
+    font-size: large;
     color: white;
 
 }
@@ -45,7 +50,7 @@ a{
 }
 footer {
   min-height: 50px;
-  background: rgb(255, 179, 56);
+  background: rgb(255, 255, 255);
 }
 
 table {
@@ -54,9 +59,9 @@ table {
 }
 
 div {
-    padding: 20px;
+    
     text-align: center;
-     background: rgb(205, 169, 111);
+     background: rgb(255, 255, 255);
 }
 
 body {
