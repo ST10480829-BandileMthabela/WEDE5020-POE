@@ -1,4 +1,4 @@
-
+<img width="1460" height="935" alt="image" src="https://github.com/user-attachments/assets/cc40d71b-399b-41b2-b3e5-c4181aeb77fc" />
 # Final Website Plan: Small Business
 
 ## Organisation Overview:
@@ -138,6 +138,22 @@ All the footers and headers are the same so that the user is met with a consista
 |  4. | Code        | Added all.css file in css_assets folder. |  27/08/2025 | Medium | styling for figure, header, a, table and footer done. | 19/08/2025 |
 |  5. | Code        | Call css_assets file to each page. |  19/09/2025 | Low | Applying css styling to all screens onn the wedsite. | 19/08/2025 |
 | 6.  | code        | Pushed and pulled code.            | 24/09/2025  | Low | second big pushe to Git Hub, css step 1 | 24/09/2025 |
+
+# Responsive Design
+## Mobile device
+<img width="398" height="937" alt="Screenshot 2025-09-29 182202" src="https://github.com/user-attachments/assets/ebbeced4-7903-49d6-83e8-d81889f12e53" />
+
+
+## Tablet
+<img width="858" height="920" alt="Screenshot 2025-09-29 182255" src="https://github.com/user-attachments/assets/3fdbe06a-38b1-44fe-83a7-b74509c8a88d" />
+
+
+## PC
+<img width="1460" height="935" alt="Screenshot 2025-09-29 182341" src="https://github.com/user-attachments/assets/246f9fe4-62e1-40e2-9e92-fc670caaaed0" />
+
+
+
+
 
 
 
