@@ -118,7 +118,8 @@ a{
 }
 footer {
   min-height: 50px;
-  background: rgb(255, 0, 0);
+  background: rgb(212, 204, 204);
+  padding: 20px 15px;
   /*the whole footer has a red background.*/
 }
 
