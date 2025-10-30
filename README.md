@@ -138,9 +138,13 @@ All the footers and headers are the same so that the user is met with a consista
 |  4. | Code        | Added all.css file in css_assets folder. |  27/08/2025 | Medium | styling for figure, header, a, table and footer done. | 19/08/2025 |
 |  5. | Code        | Call css_assets file to each page. |  19/09/2025 | Low | Applying css styling to all screens onn the wedsite. | 19/08/2025 |
 | 6.  | code        | Pushed and pulled code.            | 24/09/2025  | Low | second big pushe to Git Hub, css step 1 | 24/09/2025 |
-| 7.  | code        | comments           | 27/09/2025  | medium | commenting on the css code added | 29/09/2025 |
+| 7.  | code        | comments           | 27/09/2025  | Medium | commenting on the css code added | 29/09/2025 |
 | 8.  | typography       |   screen shots   | 29/09/2025  | Low | screenshots of all pages in using differnt devices | 29/09/2025 |
-| 9.  | code        | Refrencing            | 28/09/2025  | high | refrencing for code for planting the footer to the end of the screen and other elements | 29/09/2025 |
+| 9.  | code        | Refrencing            | 28/09/2025  | High | refrencing for code for planting the footer to the end of the screen and other elements | 29/09/2025 |
+| 10.  | Design      | Changed Social media logos| 21/10/2025 | High | Removed white background for all coloured social media logoes and resized them to be the same proportions (Using Canva) | 30/10/2025 |
+| 11. | Code | logo and styling | 21/10/2025 | High | Changed the footer for all screens, added footer image and organised all.css file | 30/10/2025 |
+| 12. | Typology | Added refrencing | 21/10/2025 | High | Took all code attribution from part 2 and rewrote it into refrencing. All refrencing from part 1 is in read me file now. | 30/10/2025 |
+
 
 # Responsive Design
 ## Home Screen
@@ -198,6 +202,43 @@ All the footers and headers are the same so that the user is met with a consista
 ### PC
 <img width="1459" height="859" alt="Screenshot 2025-09-29 231459" src="https://github.com/user-attachments/assets/1de271f8-30a7-48bf-bf6c-19e81fc63e1b" />
 
+# REFRENCING LIST: 
+
+Auto Boutique, 2023.[online] 
+Available at: https://autoboutique.co.za 
+[Accessed: 27/08/2025]
+
+Chaudhary, 2020. YouTube.[online]
+available at:https://www.youtube.com/watch?v=VeEUhnhWhac
+[Accessed:27/08/2025]
+
+GreatStack, 2022.[online]
+Available at: https://www.youtube.com/watch?v=4U_AAGHzTok
+[Accessed:27/09/2025]
+
+Nirali, 2018.[online]
+Available at: https://stackoverflow.com/questions/50547612/how-to-put-content-in-box-and-make-it-responsive
+[Accessed:29/09/2025]
+
+Smith, P. C., 2025. Youtube. [Online] 
+Available at: https://www.youtube.com/watch?v=by8f2vYoJAE
+[Accessed 23 08 2025]
+
+vsync, 2024.[online] 
+Available at: https://stackoverflow.com/questions/643879/css-to-make-html-page-footer-stay-at-bottom-of-the-page-with-a-minimum-height-b
+[Accessed:29/09/2025]
+
+W3Schools, 2025.[online]
+Available at: https://www.w3schools.com/css/css_link.asp
+[Accessed:30/09/2025]
+
+Web Dev Simplified, 2020 .[online]
+Available at: https://youtu.be/l1mER1bV0N0?si=C1PgGODEBShZ33y_
+[Accessed:29/09/2025]
+
+wed Dev Tutorials,2022.[online] 
+Available at: https://www.youtube.com/watch?v=VRL9IYxLeJs
+[Accessed:27/08/2025]
 
 
 
