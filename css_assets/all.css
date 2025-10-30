@@ -1,3 +1,81 @@
+
+/*Remove default style*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*Logo in the middle of the screen*/
+header img { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*Spacing between elements and aligning the items to the center*/
+nav{
+  background: rgb(194, 187, 187);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 10px;
+}
+
+/*spacing between anchor tags*/
+nav a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 15px;   
+}
+
+ /* when the cursor is over an anchor tag(a link) the anchor tag gets bigger and tuns white.*/
+a:hover {
+    font-size: large;
+    color: white;
+   
+}
+
+  /*The background colour of the boarder is changed to show that the section of the page is different*/
+main {
+  flex: 1;
+  background: #ef0000;
+  border-radius: 45px;
+  margin: 24px;
+  padding: 24px;
+}
+
+  /*the whole footer has a red background.*/
+footer {
+  min-height: 50px;
+  background: rgb(255, 47, 0);
+  padding: 150px 70px;
+  background-image: url(../_images/redcar3.jpg);
+  background-size: cover;
+  background-position: center;
+
+}
+
+
+
+    /*div.grid-container{
+
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    justify-items: center;
+    background-color: rgb(232, 79, 79);
+}*/
+    /*When the screen size reaches a certain point the navigation bar ajusts so that the user can see all the links of important pages*/
+/*@media (max-width: 1200em) {*/
+/*@media (max-width: 37.5em) {  600px  (mobile) */
+
+
 /*
 CODE ATTRIBUTION
 Author:Web Dev Simplified
@@ -25,127 +103,11 @@ Link/Accessed at:https://stackoverflow.com/questions/50547612/how-to-put-content
 Date accessed:29/09/2025
 */
 
-
-
-
-* {/* this code applies for all pages*/
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  /* reset browser default styling*/
-}
-
-@media (max-width: 1200em) { /* 1200px  (PC) */
-/*When the width of the screen is above 1200px the code styling below will be applied.*/
-
-header img {  
-    /*Moves logo to the center of the screen.*/ 
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.grid-container {
-display: grid;
-grid-template-columns: repeat(auto-fit, minmax(300px, 300px));
-gap: 100px;
-padding: 20px;
-width: 100%;
-}
-
-figure {
-    
-    display: inline-block;
-    margin: 50px;
-
-}
-
-nav{
-  min-height: 50px;
-  background: rgb(255, 0, 0);
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  /*Spacing between elements and aligning the items to the center*/
-}
-
-nav a {
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-    
-    font-weight: bold;
-    padding: 10px 15px;
-   /*spacing between anchor tags*/
-
-}
-
-a:hover {
-    font-size: large;
-    color: white;
-    /* when the cursor is over an anchor tag(a link) the anchor tag gets bigger and tuns white.*/
-}
-
-}
-
-body {
-  min-height: 100vh;
-  margin: 0;
-  display: flex;
-  flex-direction: column;
-  background: #ffffff;
-}
-iframe { /*allows map to stay in the center of the main area*/
-    width: 100%;
-}
-
-div.grid-container{
-
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
-    display: flex;
-    padding: 20px;
-    margin: 20px;
-    justify-items: center;
-    background-color: rgb(232, 79, 79);
-
-}
-
-a{
-   display: inline;
-    padding: 0px 20px;
-    
-}
-footer {
-  min-height: 50px;
-  background: rgb(212, 204, 204);
-  padding: 20px 15px;
-  /*the whole footer has a red background.*/
-}
-
-  
-
-main {
-  flex: 1;
-  background: #d0cdcd;
-  border-radius: 32px;
-  margin: 24px;
-  padding: 24px;
-  box-shadow: 0 2px 12px rgba(0,0,0,0.04);
-  /*The background colour of the boarder is changed to show that the section of the page is different*/
-}
- 
-
-
-@media (max-width: 37.5em) { /* 600px  (mobile) */
-    nav {
-        flex-direction: column;
-        align-items: flex-start;
-        padding: 10px;
-    }
-    figure {
-        display: inline-block;
-        margin: 10px;
-    }
-    /*When the screen size reaches a certain point the navigation bar ajusts so that the user can see all the links of important pages*/
-}
+/*
+CODE ATTRIBUTION
+Author:W3Schools
+Title: CSS Links
+Date Published:2025
+Link/Accessed at:https://www.w3schools.com/css/css_link.asp
+Date accessed:30/10/2025
+*/
