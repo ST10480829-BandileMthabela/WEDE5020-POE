@@ -137,13 +137,14 @@ All the footers and headers are the same so that the user is met with a consista
 |  3. | Design      | Resize all images in gallery to the same dimentions using Cap Cut image editor. | 19/09/2025 | Low | Made all 6 images in gallery ratio 16:9. | 19/09/2025 |
 |  4. | Code        | Added all.css file in css_assets folder. |  27/08/2025 | Medium | styling for figure, header, a, table and footer done. | 19/08/2025 |
 |  5. | Code        | Call css_assets file to each page. |  19/09/2025 | Low | Applying css styling to all screens onn the wedsite. | 19/08/2025 |
-| 6.  | code        | Pushed and pulled code.            | 24/09/2025  | Low | second big pushe to Git Hub, css step 1 | 24/09/2025 |
-| 7.  | code        | comments           | 27/09/2025  | Medium | commenting on the css code added | 29/09/2025 |
-| 8.  | typography       |   screen shots   | 29/09/2025  | Low | screenshots of all pages in using differnt devices | 29/09/2025 |
-| 9.  | code        | Refrencing            | 28/09/2025  | High | refrencing for code for planting the footer to the end of the screen and other elements | 29/09/2025 |
+| 6.  | Code        | Pushed and pulled code.            | 24/09/2025  | Low | second big pushe to Git Hub, css step 1 | 24/09/2025 |
+| 7.  | Code        | comments           | 27/09/2025  | Medium | commenting on the css code added | 29/09/2025 |
+| 8.  | Typography       |   screen shots   | 29/09/2025  | Low | screenshots of all pages in using differnt devices | 29/09/2025 |
+| 9.  | Code        | Refrencing            | 28/09/2025  | High | refrencing for code for planting the footer to the end of the screen and other elements | 29/09/2025 |
 | 10.  | Design      | Changed Social media logos| 21/10/2025 | High | Removed white background for all coloured social media logoes and resized them to be the same proportions (Using Canva) | 30/10/2025 |
 | 11. | Code | logo and styling | 21/10/2025 | High | Changed the footer for all screens, added footer image and organised all.css file | 30/10/2025 |
 | 12. | Typology | Added refrencing | 21/10/2025 | High | Took all code attribution from part 2 and rewrote it into refrencing. All refrencing from part 1 is in read me file now. | 30/10/2025 |
+| 13. | Code | Navigation | 30/10/2025 | Low | Added class names for anker tags in navigation bar, made text bold for a tags in nav bar and updated all nav bars on website. | 30/10/2025 |
 
 
 # Responsive Design
