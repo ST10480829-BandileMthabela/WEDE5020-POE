@@ -32,6 +32,24 @@ Increasing the number of subscribers and followers on social media will bring tr
 Current website analysis: 
 The website looks unprofessional. Most problems about the website are only unnoticeable when it is viewed on a computer.  The colours used feel overwhelming making me as the user want to click off the website. 
 
+## Lecturer feedback: 
+
+ | Feedback                                        | Date resolved | 
+ | ---                                             | ---           | 
+ | For Part 2                                      |               |
+ | ---                                             | ---           | 
+ |   Add change log                                | 18/09/2025    |  
+ |   Refrenc POE in git hub read me file           | 18/09/2025    | 
+ | ---                                             | ---           |
+ | For Part 3                                      |               |
+ | ---                                             | ---           |
+ | Add Lecture Feedback                            | 30/10/2025    | 
+ | styling can be done better                      | 30/10/2025    |
+ | refrencing                                      | 30/10/2025    |              
+ | The red I used to style the website is too Loud.| 21/10/2025    |
+ | Social media icons can look more proFessional   | 21/10/2025    |
+
+
 ### Design and user experience:
 Colour Palette:
  <img width="940" height="627" alt="image" src="https://github.com/user-attachments/assets/83d5aeeb-4f1a-4e11-8be6-9045f26ff917" />
