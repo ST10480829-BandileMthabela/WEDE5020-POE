@@ -15,7 +15,7 @@ header img {
 
 /*Spacing between elements and aligning the items to the center*/
 nav{
-  background: rgb(194, 187, 187);
+  background: rgb(255, 255, 255);
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -24,7 +24,7 @@ nav{
 }
 
 /*spacing between anchor tags*/
-nav a {
+nav .nav-a{
     color: rgb(0, 0, 0);
     text-decoration: none;
     font-weight: bold;
@@ -32,9 +32,9 @@ nav a {
 }
 
  /* when the cursor is over an anchor tag(a link) the anchor tag gets bigger and tuns white.*/
-a:hover {
+.nav-a:hover {
     font-size: large;
-    color: white;
+    color: rgb(255, 0, 0);
    
 }
 
@@ -55,8 +55,22 @@ footer {
   background-image: url(../_images/redcar3.jpg);
   background-size: cover;
   background-position: center;
-
 }
+
+img.Hero-Section:hover {
+  transform: scale(1.03);
+  transition: transform 0.1s ease-in-out;
+ 
+}
+
+
+
+
+
+
+
+
+
 
 
 
