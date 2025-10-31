@@ -34,20 +34,19 @@ The website looks unprofessional. Most problems about the website are only unnot
 
 ## Lecturer feedback: 
 
- | Feedback                                        | Date resolved | 
- | ---                                             | ---           | 
- | For Part 2                                      |               |
- | ---                                             | ---           | 
- |   Add change log                                | 18/09/2025    |  
- |   Refrenc POE in git hub read me file           | 18/09/2025    | 
- | ---                                             | ---           |
- | For Part 3                                      |               |
- | ---                                             | ---           |
- | Add Lecture Feedback                            | 30/10/2025    | 
- | styling can be done better                      | 30/10/2025    |
- | refrencing                                      | 30/10/2025    |              
- | The red I used to style the website is too Loud.| 21/10/2025    |
- | Social media icons can look more proFessional   | 21/10/2025    |
+ | Feedback                                        | Date resolved |  Action                                                      |
+ | ---                                             | ---           | ---                                                          |
+ | FROM PART 1                                     | -             | -                                                            |
+ |                                                 |               |                                                              |
+ |   Add change log                                | 18/09/2025    | A change log was added to this Git Hub read me file.         |
+ |                                                 |               |                                                              |
+ | FROM PART 2                                     |               |                                                              |
+ |                                                 |               |                                                              |
+ | Add Lecture Feedback                            | 30/10/2025    |  Lecturer feedback table added to this git hub read me file. |        
+ | styling can be done better                      | 30/10/2025    |  improvrd gallery styling (I used a YouTube video.)          |        
+ | refrencing (I only had code attribution)        | 30/10/2025    |  Added refrencing to github read me file.                    | 
+ | The red I used to style the website is too Loud.| 21/10/2025    |  Changed red colour to a less over welming red               |
+ | Social media icons can look more proFessional   | 21/10/2025    |  removed white background from social media icon.            |
 
 
 ### Design and user experience:
