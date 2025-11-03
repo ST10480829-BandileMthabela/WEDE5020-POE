@@ -258,6 +258,23 @@ wed Dev Tutorials,2022.[online]
 Available at: https://www.youtube.com/watch?v=VRL9IYxLeJs
 [Accessed:27/08/2025]
 
+Treehouse, 2022.[online] 
+https://youtu.be/kjw44XKL7xI?si=otcqBf6JVfMpylkh
+[Accessed: 03/11/2025]
+
+O Tech School, 2024.[online] 
+https://www.youtube.com/watch?v=OspQQSjFL1A
+[Accessed: 03/11/2025]
+
+Bro Code, 2021.[online] 
+https://www.youtube.com/watch?v=bi5bfH_gVWE
+[Accessed: 03/11/2025]
+
+Creative JS Coder, 2023.[online] 
+https://www.youtube.com/watch?v=OTjmnF27ADk
+[Accessed: 03/11/2025]
+
+
 
 
 
