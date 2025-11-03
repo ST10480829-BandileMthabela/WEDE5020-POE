@@ -55,6 +55,21 @@ If hidden, show it ("block") */
   });
 });
 
+/*galley*/
+let btnNext = document.querySelector('.next');
+let btnPrev = document.querySelector('.prev');
+
+btnNext.addEventListener('click', function() {
+    let items = document.querySelectorAll('.item');
+    document.querySelector('.switch-item').appendChild(items[0])
+})
+
+btnPrev.addEventListener('click', function() {
+    let items = document.querySelectorAll('.item');
+    document.querySelector('.switch-item').prepend(items[items.length-1])
+})
+/**/ 
+
 
 
 
