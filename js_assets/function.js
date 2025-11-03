@@ -1,4 +1,4 @@
-// Search & Filtering
+
 document.getElementById("searchBox").addEventListener("keyup", function () {
   let filter = this.value.toLowerCase();
   let books = document.querySelectorAll("#bookList li");
@@ -10,7 +10,7 @@ document.getElementById("searchBox").addEventListener("keyup", function () {
 });
 //
 
-// Lightbox functionality
+
 const galleryItems = document.querySelectorAll('.galleryItem img');
 const lightBox = document.getElementById('lightBox');
 const lightBoxImg = document.getElementById('lightBoxCon');
@@ -38,18 +38,9 @@ galleryItems.forEach(item => {
 //
 
 // Accordion
-document.querySelectorAll(".accordion-btn").forEach((btn) => { //Selects all elements with class accordion-btn.
-
-  /*Loops through each button and adds a click listener.
-On click: Toggles the class "active" (you can use this in CSS for styling open/closed buttons).
- */
+document.querySelectorAll(".accordion-btn").forEach((btn) => { 
   btn.addEventListener("click", function() {
     btn.classList.toggle("active");
-
-    /* Selects the next element (nextElementSibling) which is the accordion content.
-Checks if it’s visible:
-If display is "block", hide it ("none")
-If hidden, show it ("block") */
     let content = btn.nextElementSibling;
     content.style.display = content.style.display === "block" ? "none" : "block";
   });
@@ -68,7 +59,16 @@ btnPrev.addEventListener('click', function() {
     let items = document.querySelectorAll('.item');
     document.querySelector('.switch-item').prepend(items[items.length-1])
 })
-/**/ 
+
+
+/*
+CODE ATTRIBUTION
+Author: O Tech School
+Title: Creating a Lightbox Gallery with HTML, CSS & JavaScript #75DayUIChallenge #day69
+Date Published:2024
+Link/Accessed at:https://www.youtube.com/watch?v=OspQQSjFL1A
+Date accessed:03/11/2025
+*/ 
 
 
 

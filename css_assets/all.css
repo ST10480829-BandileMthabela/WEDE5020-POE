@@ -297,11 +297,11 @@ footer {
    border-radius: 45px;
 }
 
-
+body{top: 100%;}
 /*Gallery screen.*/
 .gallery-house {
   position: absolute;
-  top:65%;
+  top:213%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
@@ -504,7 +504,7 @@ transform: scale(1.1);
 
 
 
-/* === General Layout === */
+/*  General Layout */
 body {
   font-family: "Poppins", sans-serif;
   margin: 0;
@@ -518,7 +518,7 @@ body {
   
 }
 
-/* === Page Title === */
+/* Title */
 main h1 {
   text-align: center;
   font-size: 2rem;
@@ -528,7 +528,7 @@ main h1 {
   letter-spacing: 1px;
 }
 
-/* === Contact Info List === */
+/*Contact Info List*/
 main ul {
   list-style: none;
   padding: 0;
@@ -544,7 +544,7 @@ main ul li {
   font-size: 1rem;
 }
 
-/* === Map Section === */
+/*Map*/
 iframe {
   display: block;
   width: 100%;
@@ -555,7 +555,7 @@ iframe {
   box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
 
-/* === Contact Form === */
+/*Contact*/
 section {
   padding: 2rem 0;
   border-top: 1px solid #eee;
@@ -607,13 +607,9 @@ button[type="submit"]:hover {
   background: #000000;
 }
 
-/* === Feedback Message Placeholder === */
-#formFeedback {
-  margin-top: 1rem;
-  font-weight: 600;
-}
 
-/* === Responsive Adjustments === */
+
+/*Responsive Adjustments*/
 @media (max-width: 600px) {
   main {
     padding: 1rem;
@@ -663,4 +659,13 @@ Title: CSS Links
 Date Published:2025
 Link/Accessed at:https://www.w3schools.com/css/css_link.asp
 Date accessed:30/10/2025
+*/
+
+/*
+CODE ATTRIBUTION
+Author: Creative JS Coder
+Title: How to create an Image Slider in HTML CSS and JavaScript Step by Step | Creative JS Coder.
+Date Published:2023
+Link/Accessed at:https://www.youtube.com/watch?v=OTjmnF27ADk
+Date accessed:03/11/2025
 */
