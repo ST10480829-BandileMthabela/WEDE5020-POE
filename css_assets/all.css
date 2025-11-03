@@ -1,31 +1,228 @@
-/*Remove default style*/
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/*Logo in the middle of the screen*/
+.services {
+  max-width: 800px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+  font-family: "Poppins", sans-serif;
+  color: #c7bdbd;
+}
+
+.services h1 {
+  text-align: center;
+  font-size: 2.2rem;
+  margin-bottom: 0.5rem;
+  color: #817171;
+}
+
+.services h2 {
+  text-align: center;
+  font-size: 1.4rem;
+  color: #888;
+  margin-bottom: 2rem;
+  letter-spacing: 1px;
+}
+
+.package {
+  background: #5f0b0b;
+  border-radius: 12px;
+  padding: 1.5rem 2rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease;
+}
+
+.package:hover {
+  transform: translateY(-3px);
+}
+
+.package h3 {
+  font-size: 1.5rem;
+  color: #ffffff;
+  margin-bottom: 0.3rem;
+}
+
+.package .price {
+  font-weight: 600;
+  color: #469089e7;
+  margin-bottom: 1rem;
+}
+
+.package ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+
+
+.package ul li strong {
+  color: #e06f6f;
+  font-weight: 600;
+}
+
+
+
+
+
+
+/* Accordion */
+.accordion-btn {
+  width: 100%;
+  text-align: left;
+  padding: 10px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-weight: bold;
+  background: #dba39a;
+  color: white;
+  margin-top: 5px;
+}
+
+.accordion-content {
+  display: none;
+  padding: 10px;
+  background: #f3e5d0;
+  border-radius: 0 0 8px 8px;
+}
+
 header img { 
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-/*spacing between anchor tags*/
+header{
+  text-align: center;
+}
+
+header a {
+}
+body{
+  background: white;
+ 
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  color: grey;
+}
+
+.gallery{
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(150px,1fr));
+}
+
+.galleryItem{
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 5px 15px darkslategray;
+  img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    cursor: pointer;
+    transition: .3s ease-in-out;
+  }
+
+ &:hover{
+  img{
+    transform: scale(1.1);
+  }
+ } 
+}
+
+#lightBox{
+  display: none;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;
+  background: darkslategrey;
+  width: 100%;
+  flex-direction: column;
+
+  img{
+    width: 90%;
+    max-width: 90%;
+    height: 80%;
+    max-height: 80%;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+  #close{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: white;
+    cursor: pointer;
+    font-size: 50px;
+  }
+
+  #caption{
+    color: white;
+    margin-top: 20px;
+    font-size: 1.1em;
+    text-align: center;
+
+  }
+
+}
+
+ul.navLi{
+  float: left;
+  display: flex; 
+}
+
+ul li{
+  list-style: none;
+  margin-left: 62px;
+  margin-top: 27px;
+  font-size: 14px;
+}
+
+ul li a{
+  text-decoration: none;
+  color: rgb(2, 2, 2);
+  font-family: Arial;
+  font-weight: bold;
+  transform: 0.4s ease-in-out;
+}
+
+
+
 nav .nav-a{
     color: rgb(0, 0, 0);
     text-decoration: none;
     padding: 10px 20px;   
 }
 
- /* when the cursor is over an anchor tag(a link) the anchor tag gets bigger and tuns white.*/
 .nav-a:hover {
     color: rgb(255, 0, 0);
 }
-  /*The background colour of the boarder is changed to show that the section of the page is different*/
 
-  /*the whole footer has a red background.*/
+.gallery{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 15px;
+  max-width: 800px;
+}
+
+
+
+/* Search */
+#searchBox {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
 footer {
   min-height: 90px;
   background: rgb(141, 139, 139);
@@ -52,27 +249,7 @@ footer {
   height: 109vh;
 }*/
 
-ul.navLi{
-  float: left;
-  display: flex;
- 
-  
-}
 
-ul li{
-  list-style: none;
-  margin-left: 62px;
-  margin-top: 27px;
-  font-size: 14px;
-}
-
-ul li a{
-  text-decoration: none;
-  color: rgb(2, 2, 2);
-  font-family: Arial;
-  font-weight: bold;
-  transform: 0.4s ease-in-out;
-}
 
 .search{
   width: 330px;
@@ -108,18 +285,11 @@ ul li a{
    border-radius: 45px;
 }
 
-.btnSearch:focus{
-  outline: none;
-}
-
-.searchInput:focus{
-  outline: none;
-}
 
 /*Gallery screen.*/
 .gallery-house {
   position: absolute;
-  top:62%;
+  top:65%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
@@ -324,6 +494,8 @@ transform: scale(1.1);
   left: 50%;
   transform: translate(-50%, -5%);
 }
+
+
 
 
 

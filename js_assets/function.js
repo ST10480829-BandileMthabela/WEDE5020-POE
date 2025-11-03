@@ -1,37 +1,60 @@
-/*galley*/
-let btnNext = document.querySelector('.next');
-let btnPrev = document.querySelector('.prev');
+// Search & Filtering
+document.getElementById("searchBox").addEventListener("keyup", function () {
+  let filter = this.value.toLowerCase();
+  let books = document.querySelectorAll("#bookList li");
 
-btnNext.addEventListener('click', function() {
-    let items = document.querySelectorAll('.item');
-    document.querySelector('.switch-item').appendChild(items[0])
-})
+  books.forEach(i => {
+    let text = i.textContent.toLowerCase();
+    i.style.display = text.includes(filter) ? "block" : "none";
+  });
+});
+//
 
-btnPrev.addEventListener('click', function() {
-    let items = document.querySelectorAll('.item');
-    document.querySelector('.switch-item').prepend(items[items.length-1])
-})
-/**/ 
+// Lightbox functionality
+const galleryItems = document.querySelectorAll('.galleryItem img');
+const lightBox = document.getElementById('lightBox');
+const lightBoxImg = document.getElementById('lightBoxCon');
+const caption = document.getElementById('caption');
+const close = document.getElementById('close');
 
-/*light-box */
+galleryItems.forEach(item => {
+  item.addEventListener('click', ()=>{
 
-const modal = document.querySelector(".modal");
-const previews = document.querySelectorAll(".imglight img");
-const original = document.querySelector(".full-img");
-const caption = document.querySelector(".caption");
+    lightBox.style.display = 'flex';
+    lightBoxImg.src = item.src;
+    caption.innerText = item.alt;
+  })
 
-previews.forEach((preview) => {
-  preview.addEventListener("click", () => {
-    modal.classList.add("open");
-    original.classList.add("open");
-    original.src = preview.src;
-    caption.textContent = preview.alt;
+  close.addEventListener('click', (e)=>{
+    lightBox.style.display ='none';
+  })
+
+  lightBox.addEventListener('click', (e)=>{
+    if(e.target !== lightBoxImg && e.target !== caption){
+      lightBox.style.display = 'none';
+    }
+  })
+});
+//
+
+// Accordion
+document.querySelectorAll(".accordion-btn").forEach((btn) => { //Selects all elements with class accordion-btn.
+
+  /*Loops through each button and adds a click listener.
+On click: Toggles the class "active" (you can use this in CSS for styling open/closed buttons).
+ */
+  btn.addEventListener("click", function() {
+    btn.classList.toggle("active");
+
+    /* Selects the next element (nextElementSibling) which is the accordion content.
+Checks if it’s visible:
+If display is "block", hide it ("none")
+If hidden, show it ("block") */
+    let content = btn.nextElementSibling;
+    content.style.display = content.style.display === "block" ? "none" : "block";
   });
 });
 
-modal.addEventListener("click", (e) => {
-  if (e.target.classList.contains("modal")) {
-    modal.classList.remove("open");
-    original.classList.remove("open");
-  }
-});
+
+
+
